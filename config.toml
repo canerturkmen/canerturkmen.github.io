@@ -1,4 +1,4 @@
-baseURL = "http://caner.io/"
+baseURL = "http://canerturkmen.github.io/"
 languageCode = "en-us"
 title = "Caner Türkmen"
 theme = "hugo-book"
