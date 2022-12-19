@@ -2,6 +2,7 @@
 title: "fun with cryptography"
 date: 2023-04-26T00:00:00+01:00
 math: true
+draft: true
 ---
 
 Just to kill time, I started following Dan Boneh's Coursera course on introductory cryptography (working backwards from a desire to understand what zkSNARKs are all about).
